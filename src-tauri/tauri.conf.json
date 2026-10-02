@@ -8,17 +8,7 @@
     "frontendDist": "../dist"
   },
   "app": {
-    "windows": [
-      {
-        "title": "notali",
-        "width": 1440,
-        "height": 900,
-        "minWidth": 1000,
-        "minHeight": 650,
-        "center": true,
-        "url": "https://notali-app.vercel.app/"
-      }
-    ],
+    "windows": [],
     "security": {
       "csp": null
     }
